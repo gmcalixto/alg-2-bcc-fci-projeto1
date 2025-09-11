@@ -109,7 +109,7 @@ CAD[AJLPRW] MACACO NO SEU GALHO
 >
 > Arquivo README.md contendo informações sobre o grupo com o nome e RA
 > e turma. Além disso, mostrar um passo a passo como executar o programa
-> dado o arquivo de entrada.
+> dado a entrada.
 
   -----------------------------------------------------------------------
   **O QUE SERÁ AVALIADO**
@@ -151,7 +151,7 @@ seguir.
 
 | Item avaliado | Pontuação máxima |
 |---------------|-----------------|
-| Carregar dados de um arquivo e validação do arquivo de entrada. | até 1,0 ponto |
+| Carregar dados para validação da entrada. | até 1,0 ponto |
 | Função recursiva devidamente implementada | até 2,5 ponto |
 | Funções auxiliares para facilitar a legibilidade do código. | até 2,0 ponto |
 | Saída em Tela. | até 1,5 ponto |
