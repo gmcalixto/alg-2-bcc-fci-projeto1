@@ -190,8 +190,7 @@ O código compilado será executado da seguinte forma (utilizando bash):
 Por exemplo, para realizar o Teste 1
 
 ```bash
-> ./projeto1.o .- -\... -.-. -.. . ..-. \--. \.... .. .\-\-- -.- .-..
-\-- -. \-\-- .\--. \--.- .-. \... - ..- \...- .\-- -..- -.\-- \--..
+> ./projeto1.o .- -... -.-. -.. . ..-. --. .... .. .--- -.- .-.. -- -. --- .--. --.- .-. ... - ..- ...- .-- -..- -.-- --..
 ```
 
 Saída esperada
