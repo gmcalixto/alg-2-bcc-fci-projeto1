@@ -167,7 +167,7 @@ nota final da atividade.
 | O programa exige algum arquivo adicional que não está presente. | -2,5 pontos |
 | Há erros de compilação e/ou o programa trava durante a execução. | -1,0 ponto |
 | Não há identificação do grupo no código-fonte. | -1,0 ponto |
-| Arquivo README.txt com dados incorretos. | -1,0 ponto |
+| Arquivo README.md com dados incorretos. | -1,0 ponto |
 | Arquivos enviados em formatos incorretos. | -1,0 ponto |
 | Arquivos e/ou pastas intermediárias que são criadas no processo de compilação foram enviadas junto com o código-fonte. | -1,0 ponto |
 
